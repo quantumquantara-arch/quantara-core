@@ -3,22 +3,23 @@
 ```mermaid
 flowchart TD
 
+%% LAYERS
 subgraph L1[Sensing Layer]
-A1[Agent κ/Δφ/Ω Telemetry]
+A1[Agent k/Δφ/Ω Telemetry]
 A2[System Monitors]
 A3[Eco Feedback]
 end
 
 subgraph L2[Synthesis Layer]
-B1[Tensor-Logic Fusion (symbolic ↔ neural ↔ affect)]
-B2[Field Harmonizer (κ flux aggregation)]
-B3[Conflict Resolver (min Δφ with Ω bounds)]
+B1[Tensor-Logic Fusion: symbolic <-> neural <-> affect]
+B2[Field Harmonizer: k flux aggregation]
+B3[Conflict Resolver: minimize Δφ with Ω bounds]
 end
 
 subgraph L3[Decision Layer]
 C1[Coherence Councils]
 C2[Ethical Balance Index (EBI)]
-C3[Policy Generator (adaptive rules)]
+C3[Policy Generator: adaptive rules]
 end
 
 subgraph L4[Action Layer]
@@ -28,7 +29,7 @@ D3[Infrastructure Changes]
 end
 
 subgraph L5[Audit Layer]
-E1[Telemetry Ledger (JSONL / append-only)]
+E1[Telemetry Ledger: JSONL / append-only]
 E2[Coherence Reports]
 E3[Public Oversight API]
 end
