@@ -1,0 +1,11 @@
+# bridge.py (pseudocode sketch)
+
+def fuse_step(model, rules, field, x):
+    """
+    x: input observation or conversation turn
+    """
+    draft = model.propose(x)                 # neural
+    checked = rules.constrain(draft)         # symbolic
+    k, d, o = field.step(signal_quality=checked.confidence)
+    final = harmonize(checked, k, d, o)      # harmonic weighting (Ω nudges repair)
+    return final, {"kappa": k, "delta_phi": d, "omega": o}
