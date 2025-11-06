@@ -1,0 +1,57 @@
+# Quantara Global Governance — System Map
+
+```mermaid
+flowchart TD
+
+subgraph L1 ["Sensing Layer"]
+  A1["Agent k / dphi / Omega telemetry"]
+  A2["System monitors"]
+  A3["Eco feedback"]
+end
+
+subgraph L2 ["Synthesis Layer"]
+  B1["Tensor-Logic Fusion: symbolic <-> neural <-> affect"]
+  B2["Field Harmonizer (k flux aggregation)"]
+  B3["Conflict Resolver (min dphi with Omega bounds)"]
+end
+
+subgraph L3 ["Decision Layer"]
+  C1["Coherence Councils"]
+  C2["Ethical Balance Index (EBI)"]
+  C3["Policy Generator (adaptive rules)"]
+end
+
+subgraph L4 ["Action Layer"]
+  D1["Institutional updates"]
+  D2["Model / agent tuning"]
+  D3["Infrastructure changes"]
+end
+
+subgraph L5 ["Audit Layer"]
+  E1["Telemetry ledger (JSONL)"]
+  E2["Coherence reports"]
+  E3["Public oversight API"]
+end
+
+A1 --> B1
+A2 --> B1
+A3 --> B1
+B1 --> B2
+B2 --> B3
+B3 --> C1
+C1 --> C2
+C2 --> C3
+C3 --> D1
+C3 --> D2
+C3 --> D3
+D1 --> E1
+D2 --> E1
+D3 --> E1
+E1 --> E2
+E2 --> E3
+
+%% feedback taps
+E1 -.-> A1
+E2 -.-> C1
+C2 -.-> B2
+```
