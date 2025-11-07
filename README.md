@@ -65,6 +65,9 @@ It enables systems — human, synthetic, and hybrid — to operate as nodes with
 [github.com/<your-handle>/aei-energy-intelligence](https://github.com/<your-handle>/aei-energy-intelligence)
 → Demonstrates Quantara’s coherence substrate applied to real-world energy forecasting, orchestration, and ethical value exchange.
 
+## Sectoral Applications
+- [AEI — Artificial Energy Intelligence](https://github.com/<your-username>/aei-energy-intelligence)
+  
 ### ✉️ Contact
 
 **Author:** Nadine Squires  
