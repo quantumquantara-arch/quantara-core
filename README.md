@@ -1,11 +1,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/quantumquantara-arch/quantara-core/main/.github/profile/quantara_banner.svg"
-       alt="Quantara Core Banner"
-       width="100%">
+       alt="Quantara Core Banner" width="100%">
 </p>
-# Quantara Core  
-*A Coherence-Based Intelligence Architecture for Ethical Systems Evolution*
 
+<h1 align="center">🪐 Quantara Core</h1>
+<p align="center"><em>A Coherence-Based Intelligence Architecture for Ethical Systems Evolution</em></p>
 ---
 
 ### 🧭 Overview
