@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Quantara Core Banner</title>
+  <desc id="desc">Animated gradient banner reading Quantara Core — A coherence-based intelligence architecture</desc>
+
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00B3FF">
+        <animate attributeName="stop-color" values="#00B3FF;#7C4DFF;#00D4FF;#00B3FF" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7C4DFF">
+        <animate attributeName="stop-color" values="#7C4DFF;#00D4FF;#00B3FF;#7C4DFF" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#grad)" rx="20" ry="20"/>
+  <text x="50%" y="46%" font-size="64" text-anchor="middle" fill="white" font-family="Segoe UI, Inter, system-ui, -apple-system, Arial, sans-serif">Quantara Core</text>
+  <text x="50%" y="68%" font-size="26" text-anchor="middle" fill="white" opacity="0.85" font-family="Segoe UI, Inter, system-ui, -apple-system, Arial, sans-serif">A coherence-based intelligence architecture</text>
+</svg>
