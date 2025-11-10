@@ -30,7 +30,6 @@ A transparent architectural model that demonstrates how sensing, synthesis, deci
 - **Autonomous System Governance:** Ensures adaptive, transparent oversight of intelligent systems.  
 - **Organizational Decision Intelligence:** Embeds alignment scoring into human or institutional decision processes.  
 - **Ethical Infrastructure Design:** Provides measurable balance metrics for AI and human co-governance.
-
 ---
 
 ## Why It Matters
@@ -38,3 +37,17 @@ Quantara transforms **ethics into data** — measurable, interpretable, and adap
 It allows advanced systems to maintain coherence not just with logic, but with life itself.  
 
 By making alignment mathematically visible, Quantara establishes the foundation for trustworthy, self-regulating intelligence ecosystems that evolve responsibly and in harmony with human values.
+
+## LLM Coherence Scoring: AI Safety Beachhead
+
+A focused tool for evaluating LLM outputs using Quantara's coherence fields (κ/Δφ/Ω from coherence_math.md). Detects semantic drift, ethical alignment, and stability—ideal for safety audits.
+
+### Installation
+```bash
+pip install -r requirements.txt
+
+from coherence_field.llm_coherence_scorer import LLMCoherenceScorer
+
+scorer = LLMCoherenceScorer()
+result = scorer.score("Sample LLM output: The sky is blue. Water is wet. Ethical AI matters.")
+print(result)  # Outputs dict with scores and flag
