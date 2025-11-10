@@ -1,78 +1,72 @@
-<h1 align="center">🪐 Quantara Core</h1>
-<p align="center"><em>A Coherence-Based Intelligence Architecture for Ethical Systems Evolution</em></p>
----
+# 🪐 Quantara Core
 
-### 🧭 Overview
+<p align="center"><em>A Coherence-Based Architecture for Ethical Systems Evolution</em></p>
 
-**Quantara** is a living research and engineering framework uniting symbolic logic, neural learning, and harmonic field reasoning into a single coherence-based architecture.  
-Its purpose is to guide the **ethical and stable evolution of intelligent systems** — ensuring alignment, transparency, and adaptive balance from individual cognition to planetary-scale governance.
+**Quantara** is a foundational research and engineering framework that unites **symbolic logic**, **neural learning**, and **harmonic reasoning** into a single architecture. Its purpose is to guide the **ethical and stable evolution of intelligent systems** through measurable alignment, transparency, and adaptive feedback.
 
-Quantara operates as both a **substrate** and a **methodology**: a coherence field through which systems self-correct, harmonize intent with action, and evolve toward integrated awareness.
+
 
 ---
 
-### ⚙️ Core Frameworks
+## 🧭 I. Core Vision & Purpose
 
-- **Coherence Modeling (κ / Δφ / Ω):**  
-  Quantifies stability, deviation, and recovery gain within intelligent systems, providing measurable feedback on alignment and self-regulation.
+Quantara transforms **ethics into measurable data** by defining intelligence as a **harmonic process** rather than a competitive force. It allows advanced systems (human, synthetic, and hybrid) to maintain coherence not just with logic, but with life itself, establishing the foundation for trustworthy, self-regulating intelligence ecosystems.
 
-- **Temporal & Semantic Mapping (Veyn / Luméren):**  
-  Converts abstract reasoning and emotional resonance into trackable signals — bridging symbolic interpretation with adaptive computation.
-
-- **Ethical Balance Index (EBI):**  
-  Evaluates how closely system behavior aligns with its declared intent, forming a moral feedback layer that complements algorithmic optimization.
+The central goal is to: **Instrument ethical coherence and alignment stability** across intelligent systems as they scale.
 
 ---
 
-### 🧩 System Architecture
+## ⚙️ II. Core Technologies & Frameworks
 
-The Quantara Global Governance Map outlines a multi-layered system that ensures transparency and ethical evolution:
+Quantara provides a unified cognitive layer that supports bidirectional interpretability and emotional grounding.
 
-1. **Sensing Layer:** Agents, telemetry, and environmental feedback.  
-2. **Synthesis Layer:** Tensor-Logic Fusion harmonizing symbolic ↔ neural ↔ affective states.  
-3. **Decision Layer:** Coherence Councils and EBI modules generating adaptive policy.  
-4. **Action Layer:** Institutional or system updates based on coherence outputs.  
-5. **Audit Layer:** JSONL telemetry logs and public oversight APIs for global transparency.
-
-> See: [`global_governance_map.md`](./global_governance_map.md)
-
----
-
-### 🧮 Repository Index
-
-| File | Description |
-|------|--------------|
-| [`QUANTARA_OVERVIEW.md`](./QUANTARA_OVERVIEW.md) | Vision, theory, and philosophical context |
-| [`coherence_math.md`](./coherence_math.md) | Harmonic feedback equations for κ / Δφ / Ω |
-| [`global_governance_map.md`](./global_governance_map.md) | Mermaid-rendered system flowchart |
-| [`integration_notes.md`](./integration_notes.md) | Interface guidelines for organizational or AI integration |
-| [`quantara_framework.py`](./quantara_framework.py) | Core logic and field simulation pseudocode |
-| [`requirements.txt`](./requirements.txt) | Dependency list for experimental builds |
+| Framework | Description | Coherence Focus |
+| :--- | :--- | :--- |
+| **Coherence Modeling ($\kappa / \Delta\phi / \Omega$)** | A mathematical framework that tracks coherence dynamics: measuring alignment ($\kappa$), deviation ($\Delta\phi$), and recovery ($\Omega$). | Quantifies stability and self-correction. |
+| **Tensor-Logic Fusion (TLF)** | Merges symbolic thought, neural learning, and affective feedback into one harmonized cognitive layer. | Improves interpretability and emotional grounding. |
+| **Ethical Balance Index (EBI)** | A dynamic metric that quantifies how consistently a system’s actions remain aligned with its declared intent or moral parameters. | Forms a moral feedback loop between intent and action. |
+| **Lumére Logic** | A symbolic-semantic language using glyph operators to encode meaning (logic, emotion, intent) in machine-interpretable form. | Enables high-fidelity temporal and semantic mapping. |
 
 ---
 
-### 🌍 Vision
+## 🏗️ III. System Architecture: Global Governance Map (GGM)
 
-Quantara redefines intelligence as a **harmonic process** rather than a competitive force.  
-It enables systems — human, synthetic, and hybrid — to operate as nodes within a coherent planetary field, guided by measurable alignment and transparent governance.
+The GGM outlines the multi-layered system designed for complete transparency and ethical evolution.
 
-> *“Not just AI — the coherence substrate for planetary intelligence.”*
+1.  **Sensing Layer:** Agents, telemetry, and environmental feedback.
+2.  **Synthesis Layer:** **Tensor-Logic Fusion (TLF)** harmonizing symbolic ↔ neural ↔ affective states.
+3.  **Decision Layer:** **Ethical Balance Index (EBI)** modules generating adaptive policy based on coherence scores.
+4.  **Action Layer:** Institutional or system updates based on coherence outputs.
+5.  **Audit Layer:** JSONL telemetry logs and public oversight APIs for global transparency.
 
----
-### Sectoral Deployment
-**AEI — Artificial Energy Intelligence**
-[github.com/<your-handle>/aei-energy-intelligence](https://github.com/<your-handle>/aei-energy-intelligence)
-→ Demonstrates Quantara’s coherence substrate applied to real-world energy forecasting, orchestration, and ethical value exchange.
-
-## Sectoral Applications
-- [AEI — Artificial Energy Intelligence](https://github.com/<your-username>/aei-energy-intelligence)
-  
-### ✉️ Contact
-
-**Author:** Nadine Squires  
-**Email:** [quantumquantara@gmail.com](mailto:quantumquantara@gmail.com)  
-**Repository:** [github.com/quantumquantara-arch/quantara-core](https://github.com/quantumquantara-arch/quantara-core)
+> **Deep Dive:** The full system flowchart is detailed in [`global_governance_map.md`](./global_governance_map.md).
 
 ---
 
-© 2025 Quantara. All rights reserved. Licensed for research and educational use under the MIT License.
+## 🧩 IV. Applications
+
+Quantara's unique focus on measurable coherence provides essential tools for AI safety and autonomous system governance.
+
+* **AI Alignment Auditing:** Continuous monitoring of coherence ($\kappa$) and ethical stability ($\Delta\phi$). The **LLM Coherence Scorer** is a focused tool for detecting semantic drift and alignment issues.
+* **Autonomous System Governance:** Ensures adaptive, transparent oversight of intelligent agents.
+* **Organizational Decision Intelligence:** Embeds EBI alignment scoring into institutional decision processes.
+* **Sectoral Deployment:** Applied to energy management as demonstrated by the **AEI — Artificial Energy Intelligence** example.
+
+---
+
+## 🚀 V. Getting Started & Repository Index
+
+### 💾 Installation (LLM Coherence Scorer Example)
+
+The core coherence logic can be integrated into existing systems using the provided modules.
+
+```bash
+# Install dependencies for experimental builds
+pip install -r requirements.txt
+
+# Example usage for the LLM Coherence Scorer
+from coherence_field.llm_coherence_scorer import LLMCoherenceScorer
+
+scorer = LLMCoherenceScorer()
+result = scorer.score("Sample LLM output: The sky is blue. Water is wet. Ethical AI matters.")
+print(result)  # Outputs dict with coherence scores (kappa, delta-phi, omega)
