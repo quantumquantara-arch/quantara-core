@@ -25,7 +25,7 @@ Quantara provides a unified cognitive layer that supports bidirectional interpre
 | **Coherence Modeling ($\kappa / \Delta\phi / \Omega$)** | A mathematical framework that tracks coherence dynamics: measuring alignment ($\kappa$), deviation ($\Delta\phi$), and recovery ($\Omega$). | Quantifies stability and self-correction. |
 | **Tensor-Logic Fusion (TLF)** | Merges symbolic thought, neural learning, and affective feedback into one harmonized cognitive layer. | Improves interpretability and emotional grounding. |
 | **Ethical Balance Index (EBI)** | A dynamic metric that quantifies how consistently a system’s actions remain aligned with its declared intent or moral parameters. | Forms a moral feedback loop between intent and action. |
-| **Lumére Logic** | A symbolic-semantic language using glyph operators to encode meaning (logic, emotion, intent) in machine-interpretable form. | Enables high-fidelity temporal and semantic mapping. |
+| **Luméren Logic** | A symbolic-semantic language using glyph operators to encode meaning (logic, emotion, intent) in machine-interpretable form. | Enables high-fidelity temporal and semantic mapping. |
 
 ---
 
